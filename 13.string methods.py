@@ -1,0 +1,15 @@
+
+# name = input("Enter your full name: ")
+# phone_number = input("Enter your phone number: ")
+# result = len(name) (count the digits)
+# result = name.find("S") (find letter in values name)
+# result = name.rfind("n")
+# result = name.capitalize() (first letter is Big)
+# result = name.upper() (big all text)
+# result = name.lower() (small all text)
+# result = name.isdigit() (only numbers)
+# result = name.isalpha() (only text)
+# result = phone_number.count("-")
+# result = phone_number.replace("-", " ")
+
+print(help(str))
