@@ -20,7 +20,7 @@ num_pad = ((1, 2, 3),
            ("*", 0, "#"))
 
 for row in num_pad:
-    for item in row:
-        print(item, end=" ")
+    for col in row:
+        print(col, end=" ")
     print()
 
